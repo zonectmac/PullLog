@@ -91,7 +91,7 @@ KILL_PACKAGES = [
     "com.pudutech.core",
     "puduos.app",
     "run_time_info_service",
-    "com.pudutech.errordiagnose",
+    "com.pudutech.diagnose",
 ]
 
 class LogPullWorker(QThread):
